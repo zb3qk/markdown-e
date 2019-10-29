@@ -1,0 +1,7 @@
+-- import: styles.css
+
+inline: (param_1, param_2, param_3)
+<p> My name is *{param_1}, I live in *{param_2}, and my favorite food is *{param_3} </p>
+
+here: (param_1)
+<p> Eat this2! </p>
