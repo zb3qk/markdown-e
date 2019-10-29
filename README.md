@@ -7,6 +7,9 @@ Vanilla Markdown does a good job of this already but only for a finite set of de
 ## File Formats
 
 ### .mded
-This is the markdown-e dictionary file. This is where one would define their custom elements and their input parameters. An example is in the project. 
+This is the markdown-e dictionary file. This is where one would define their custom elements and their input parameters. An example is in the project.
+
+### .mde
+The format of the .mde file is similar to that of a normal .md (markdown) file. 
 
 
